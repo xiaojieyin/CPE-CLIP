@@ -4,6 +4,7 @@
 
 
 ## Installation
+
 ```bash
 # Require pytorch>=1.10
 conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
@@ -14,6 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparation
+
 Refer to the following guides for setting up datasets:
 - Image datasets: [CoOp](https://github.com/KaiyangZhou/CoOp/blob/main/DATASETS.md) and [SuS-X](https://github.com/vishaal27/SuS-X/blob/main/data/DATA.md)
 - Video datasets: [Open-VCLIP](https://github.com/wengzejia1/Open-VCLIP)
