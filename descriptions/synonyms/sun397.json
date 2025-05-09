@@ -1,0 +1,1469 @@
+{
+    "abbey": [
+        "abbey",
+        "priory"
+    ],
+    "airplane_cabin": [
+        "airplane cabin"
+    ],
+    "airport_terminal": [
+        "airport terminal",
+        "terminal"
+    ],
+    "alley": [
+        "alley"
+    ],
+    "amphitheater": [
+        "amphitheater"
+    ],
+    "amusement_arcade": [
+        "amusement arcade",
+        "arcade"
+    ],
+    "amusement_park": [
+        "amusement park",
+        "theme park",
+        "funfair",
+        "carnival",
+        "fairground"
+    ],
+    "anechoic_chamber": [
+        "anechoic chamber"
+    ],
+    "outdoor apartment_building": [
+        "outdoor apartment building",
+        "apartment complex"
+    ],
+    "indoor apse": [
+        "indoor apse",
+        "apse"
+    ],
+    "aquarium": [
+        "aquarium",
+        "fish tank"
+    ],
+    "aqueduct": [
+        "aqueduct"
+    ],
+    "arch": [
+        "arch"
+    ],
+    "archive": [
+        "archive",
+        "repository"
+    ],
+    "outdoor arrival_gate": [
+        "outdoor arrival gate"
+    ],
+    "art_gallery": [
+        "art gallery",
+        "gallery",
+        "exhibit"
+    ],
+    "art_school": [
+        "art school"
+    ],
+    "art_studio": [
+        "art studio"
+    ],
+    "assembly_line": [
+        "assembly line",
+        "production line"
+    ],
+    "outdoor athletic_field": [
+        "outdoor athletic field"
+    ],
+    "public atrium": [
+        "public atrium",
+        "atrium"
+    ],
+    "attic": [
+        "attic",
+        "loft"
+    ],
+    "auditorium": [
+        "auditorium"
+    ],
+    "auto_factory": [
+        "auto factory"
+    ],
+    "badlands": [
+        "badlands"
+    ],
+    "indoor badminton_court": [
+        "indoor badminton court"
+    ],
+    "baggage_claim": [
+        "baggage claim"
+    ],
+    "shop bakery": [
+        "shop bakery",
+        "bakery",
+        "bakehouse"
+    ],
+    "exterior balcony": [
+        "exterior balcony",
+        "balcony"
+    ],
+    "interior balcony": [
+        "interior balcony"
+    ],
+    "ball_pit": [
+        "ball pit"
+    ],
+    "ballroom": [
+        "ballroom"
+    ],
+    "bamboo_forest": [
+        "bamboo forest",
+        "bamboo grove",
+        "bamboo woods"
+    ],
+    "banquet_hall": [
+        "banquet hall"
+    ],
+    "bar": [
+        "bar"
+    ],
+    "barn": [
+        "barn"
+    ],
+    "barndoor": [
+        "barndoor"
+    ],
+    "baseball_field": [
+        "baseball field"
+    ],
+    "basement": [
+        "basement"
+    ],
+    "basilica": [
+        "basilica"
+    ],
+    "outdoor basketball_court": [
+        "outdoor basketball court"
+    ],
+    "bathroom": [
+        "bathroom",
+        "restroom"
+    ],
+    "batters_box": [
+        "batters box",
+        "batter's box"
+    ],
+    "bayou": [
+        "bayou"
+    ],
+    "indoor bazaar": [
+        "indoor bazaar"
+    ],
+    "outdoor bazaar": [
+        "outdoor bazaar"
+    ],
+    "beach": [
+        "beach",
+        "shore",
+        "seashore",
+        "seaside"
+    ],
+    "beauty_salon": [
+        "beauty salon",
+        "salon",
+        "beauty parlor"
+    ],
+    "bedroom": [
+        "bedroom",
+        "room"
+    ],
+    "berth": [
+        "berth"
+    ],
+    "biology_laboratory": [
+        "biology laboratory",
+        "biology lab",
+        "research lab",
+        "bio lab"
+    ],
+    "indoor bistro": [
+        "indoor bistro"
+    ],
+    "boardwalk": [
+        "boardwalk"
+    ],
+    "boat_deck": [
+        "boat deck",
+        "deck"
+    ],
+    "boathouse": [
+        "boathouse"
+    ],
+    "bookstore": [
+        "bookstore",
+        "bookshop"
+    ],
+    "indoor booth": [
+        "indoor booth",
+        "booth"
+    ],
+    "botanical_garden": [
+        "botanical garden"
+    ],
+    "indoor bow_window": [
+        "indoor bow window"
+    ],
+    "outdoor bow_window": [
+        "outdoor bow window",
+        "bow window"
+    ],
+    "bowling_alley": [
+        "bowling alley"
+    ],
+    "boxing_ring": [
+        "boxing ring"
+    ],
+    "indoor brewery": [
+        "indoor brewery",
+        "brewery"
+    ],
+    "bridge": [
+        "bridge",
+        "overpass"
+    ],
+    "building_facade": [
+        "building facade",
+        "facade"
+    ],
+    "bullring": [
+        "bullring"
+    ],
+    "burial_chamber": [
+        "burial chamber"
+    ],
+    "bus_interior": [
+        "bus interior"
+    ],
+    "butchers_shop": [
+        "butchers shop",
+        "butcher's"
+    ],
+    "butte": [
+        "butte"
+    ],
+    "outdoor cabin": [
+        "outdoor cabin",
+        "cabin"
+    ],
+    "cafeteria": [
+        "cafeteria"
+    ],
+    "campsite": [
+        "campsite",
+        "campground"
+    ],
+    "campus": [
+        "campus",
+        "university",
+        "college"
+    ],
+    "natural canal": [
+        "natural canal",
+        "canal"
+    ],
+    "urban canal": [
+        "urban canal"
+    ],
+    "candy_store": [
+        "candy store",
+        "candy shop",
+        "sweet shop"
+    ],
+    "canyon": [
+        "canyon"
+    ],
+    "backseat car_interior": [
+        "backseat car interior"
+    ],
+    "frontseat car_interior": [
+        "frontseat car interior"
+    ],
+    "carrousel": [
+        "carrousel",
+        "carousel",
+        "merry-go-round"
+    ],
+    "indoor casino": [
+        "indoor casino",
+        "casino"
+    ],
+    "castle": [
+        "castle"
+    ],
+    "catacomb": [
+        "catacomb"
+    ],
+    "indoor cathedral": [
+        "indoor cathedral"
+    ],
+    "outdoor cathedral": [
+        "outdoor cathedral",
+        "open-air cathedral"
+    ],
+    "indoor cavern": [
+        "indoor cavern",
+        "cave"
+    ],
+    "cemetery": [
+        "cemetery",
+        "graveyard"
+    ],
+    "chalet": [
+        "chalet"
+    ],
+    "cheese_factory": [
+        "cheese factory",
+        "dairy"
+    ],
+    "chemistry_lab": [
+        "chemistry lab"
+    ],
+    "indoor chicken_coop": [
+        "indoor chicken coop"
+    ],
+    "outdoor chicken_coop": [
+        "outdoor chicken coop",
+        "chicken coop"
+    ],
+    "childs_room": [
+        "childs room"
+    ],
+    "indoor church": [
+        "indoor church"
+    ],
+    "outdoor church": [
+        "outdoor church",
+        "open-air church"
+    ],
+    "classroom": [
+        "classroom"
+    ],
+    "clean_room": [
+        "clean room",
+        "cleanroom"
+    ],
+    "cliff": [
+        "cliff"
+    ],
+    "indoor cloister": [
+        "indoor cloister",
+        "cloister"
+    ],
+    "closet": [
+        "closet",
+        "wardrobe"
+    ],
+    "clothing_store": [
+        "clothing store",
+        "boutique"
+    ],
+    "coast": [
+        "coast",
+        "coastline"
+    ],
+    "cockpit": [
+        "cockpit"
+    ],
+    "coffee_shop": [
+        "coffee shop",
+        "cafe",
+        "coffeehouse"
+    ],
+    "computer_room": [
+        "computer room",
+        "computer lab"
+    ],
+    "conference_center": [
+        "conference center",
+        "meeting venue"
+    ],
+    "conference_room": [
+        "conference room",
+        "meeting room"
+    ],
+    "construction_site": [
+        "construction site",
+        "building site"
+    ],
+    "control_room": [
+        "control room",
+        "operations center",
+        "command center",
+        "control center",
+        "monitoring room"
+    ],
+    "outdoor control_tower": [
+        "outdoor control tower",
+        "control tower"
+    ],
+    "corn_field": [
+        "corn field",
+        "cornfield",
+        "maize field"
+    ],
+    "corral": [
+        "corral"
+    ],
+    "corridor": [
+        "corridor",
+        "hallway",
+        "passageway"
+    ],
+    "cottage_garden": [
+        "cottage garden"
+    ],
+    "courthouse": [
+        "courthouse"
+    ],
+    "courtroom": [
+        "courtroom"
+    ],
+    "courtyard": [
+        "courtyard"
+    ],
+    "exterior covered_bridge": [
+        "exterior covered bridge",
+        "covered bridge"
+    ],
+    "creek": [
+        "creek",
+        "stream"
+    ],
+    "crevasse": [
+        "crevasse"
+    ],
+    "crosswalk": [
+        "crosswalk",
+        "pedestrian crossing"
+    ],
+    "office cubicle": [
+        "office cubicle",
+        "cubicle"
+    ],
+    "dam": [
+        "dam",
+        "reservoir"
+    ],
+    "delicatessen": [
+        "delicatessen",
+        "deli"
+    ],
+    "dentists_office": [
+        "dentists office",
+        "dental office",
+        "dental clinic"
+    ],
+    "sand desert": [
+        "sand desert",
+        "desert"
+    ],
+    "vegetation desert": [
+        "vegetation desert"
+    ],
+    "indoor diner": [
+        "indoor diner",
+        "diner"
+    ],
+    "outdoor diner": [
+        "outdoor diner"
+    ],
+    "home dinette": [
+        "home dinette",
+        "dinette"
+    ],
+    "vehicle dinette": [
+        "vehicle dinette"
+    ],
+    "dining_car": [
+        "dining car",
+        "dining coach"
+    ],
+    "dining_room": [
+        "dining room",
+        "dining area"
+    ],
+    "discotheque": [
+        "discotheque"
+    ],
+    "dock": [
+        "dock",
+        "pier"
+    ],
+    "outdoor doorway": [
+        "outdoor doorway",
+        "entrance",
+        "doorway"
+    ],
+    "dorm_room": [
+        "dorm room",
+        "dorm",
+        "dormitory"
+    ],
+    "driveway": [
+        "driveway"
+    ],
+    "outdoor driving_range": [
+        "outdoor driving range",
+        "driving range",
+        "practice range"
+    ],
+    "drugstore": [
+        "drugstore"
+    ],
+    "electrical_substation": [
+        "electrical substation",
+        "substation",
+        "power substation"
+    ],
+    "door elevator": [
+        "door elevator",
+        "elevator door",
+        "lift door"
+    ],
+    "interior elevator": [
+        "interior elevator"
+    ],
+    "elevator_shaft": [
+        "elevator shaft"
+    ],
+    "engine_room": [
+        "engine room"
+    ],
+    "indoor escalator": [
+        "indoor escalator",
+        "escalator"
+    ],
+    "excavation": [
+        "excavation",
+        "dig"
+    ],
+    "indoor factory": [
+        "indoor factory"
+    ],
+    "fairway": [
+        "fairway"
+    ],
+    "fastfood_restaurant": [
+        "fastfood restaurant",
+        "fast food joint"
+    ],
+    "cultivated field": [
+        "cultivated field"
+    ],
+    "wild field": [
+        "wild field",
+        "meadow"
+    ],
+    "fire_escape": [
+        "fire escape"
+    ],
+    "fire_station": [
+        "fire station",
+        "firehouse"
+    ],
+    "indoor firing_range": [
+        "indoor firing range",
+        "shooting range",
+        "gun range"
+    ],
+    "fishpond": [
+        "fishpond"
+    ],
+    "indoor florist_shop": [
+        "indoor florist shop",
+        "florist",
+        "flower shop"
+    ],
+    "food_court": [
+        "food court"
+    ],
+    "broadleaf forest": [
+        "broadleaf forest"
+    ],
+    "needleleaf forest": [
+        "needleleaf forest"
+    ],
+    "forest_path": [
+        "forest path"
+    ],
+    "forest_road": [
+        "forest road"
+    ],
+    "formal_garden": [
+        "formal garden"
+    ],
+    "fountain": [
+        "fountain",
+        "water feature"
+    ],
+    "galley": [
+        "galley"
+    ],
+    "game_room": [
+        "game room"
+    ],
+    "indoor garage": [
+        "indoor garage",
+        "garage"
+    ],
+    "garbage_dump": [
+        "garbage dump",
+        "dump"
+    ],
+    "gas_station": [
+        "gas station",
+        "petrol station"
+    ],
+    "exterior gazebo": [
+        "exterior gazebo",
+        "gazebo"
+    ],
+    "indoor general_store": [
+        "indoor general store",
+        "general store"
+    ],
+    "outdoor general_store": [
+        "outdoor general store"
+    ],
+    "gift_shop": [
+        "gift shop",
+        "souvenir shop"
+    ],
+    "golf_course": [
+        "golf course"
+    ],
+    "indoor greenhouse": [
+        "indoor greenhouse"
+    ],
+    "outdoor greenhouse": [
+        "outdoor greenhouse",
+        "greenhouse"
+    ],
+    "indoor gymnasium": [
+        "indoor gymnasium",
+        "gym",
+        "gymnasium"
+    ],
+    "indoor hangar": [
+        "indoor hangar"
+    ],
+    "outdoor hangar": [
+        "outdoor hangar",
+        "hangar"
+    ],
+    "harbor": [
+        "harbor",
+        "port"
+    ],
+    "hayfield": [
+        "hayfield"
+    ],
+    "heliport": [
+        "heliport",
+        "helipad"
+    ],
+    "herb_garden": [
+        "herb garden"
+    ],
+    "highway": [
+        "highway",
+        "freeway",
+        "expressway",
+        "motorway"
+    ],
+    "hill": [
+        "hill"
+    ],
+    "home_office": [
+        "home office"
+    ],
+    "hospital": [
+        "hospital",
+        "medical center"
+    ],
+    "hospital_room": [
+        "hospital room"
+    ],
+    "hot_spring": [
+        "hot spring",
+        "thermal spring"
+    ],
+    "outdoor hot_tub": [
+        "outdoor hot tub",
+        "hot tub"
+    ],
+    "outdoor hotel": [
+        "outdoor hotel"
+    ],
+    "hotel_room": [
+        "hotel room"
+    ],
+    "house": [
+        "house",
+        "home",
+        "residence",
+        "abode"
+    ],
+    "outdoor hunting_lodge": [
+        "outdoor hunting lodge"
+    ],
+    "ice_cream_parlor": [
+        "ice cream parlor",
+        "ice cream shop"
+    ],
+    "ice_floe": [
+        "ice floe",
+        "ice sheet"
+    ],
+    "ice_shelf": [
+        "ice shelf"
+    ],
+    "indoor ice_skating_rink": [
+        "indoor ice skating rink"
+    ],
+    "outdoor ice_skating_rink": [
+        "outdoor ice skating rink"
+    ],
+    "iceberg": [
+        "iceberg"
+    ],
+    "igloo": [
+        "igloo"
+    ],
+    "industrial_area": [
+        "industrial area",
+        "industrial park",
+        "industrial estate"
+    ],
+    "outdoor inn": [
+        "outdoor inn"
+    ],
+    "islet": [
+        "islet",
+        "island"
+    ],
+    "indoor jacuzzi": [
+        "indoor jacuzzi",
+        "jacuzzi"
+    ],
+    "indoor jail": [
+        "indoor jail",
+        "jail",
+        "prison"
+    ],
+    "jail_cell": [
+        "jail cell"
+    ],
+    "jewelry_shop": [
+        "jewelry shop",
+        "jeweler",
+        "jewelry store"
+    ],
+    "kasbah": [
+        "kasbah"
+    ],
+    "indoor kennel": [
+        "indoor kennel"
+    ],
+    "outdoor kennel": [
+        "outdoor kennel"
+    ],
+    "kindergarden_classroom": [
+        "kindergarden classroom"
+    ],
+    "kitchen": [
+        "kitchen"
+    ],
+    "kitchenette": [
+        "kitchenette"
+    ],
+    "outdoor labyrinth": [
+        "outdoor labyrinth",
+        "labyrinth"
+    ],
+    "natural lake": [
+        "natural lake",
+        "lake"
+    ],
+    "landfill": [
+        "landfill"
+    ],
+    "landing_deck": [
+        "landing deck"
+    ],
+    "laundromat": [
+        "laundromat",
+        "laundry",
+        "laundrette",
+        "self-service laundry"
+    ],
+    "lecture_room": [
+        "lecture room",
+        "lecture hall"
+    ],
+    "indoor library": [
+        "indoor library",
+        "library",
+        "reading room"
+    ],
+    "outdoor library": [
+        "outdoor library",
+        "book garden"
+    ],
+    "outdoor lido_deck": [
+        "outdoor lido deck",
+        "lido deck"
+    ],
+    "lift_bridge": [
+        "lift bridge",
+        "bascule bridge"
+    ],
+    "lighthouse": [
+        "lighthouse",
+        "light station"
+    ],
+    "limousine_interior": [
+        "limousine interior",
+        "limo interior"
+    ],
+    "living_room": [
+        "living room",
+        "lounge",
+        "sitting room",
+        "family room"
+    ],
+    "lobby": [
+        "lobby",
+        "foyer"
+    ],
+    "lock_chamber": [
+        "lock chamber",
+        "lock basin"
+    ],
+    "locker_room": [
+        "locker room",
+        "changing room"
+    ],
+    "mansion": [
+        "mansion",
+        "mansion house"
+    ],
+    "manufactured_home": [
+        "manufactured home",
+        "mobile home",
+        "manufactured house"
+    ],
+    "indoor market": [
+        "indoor market"
+    ],
+    "outdoor market": [
+        "outdoor market",
+        "market"
+    ],
+    "marsh": [
+        "marsh"
+    ],
+    "martial_arts_gym": [
+        "martial arts gym"
+    ],
+    "mausoleum": [
+        "mausoleum",
+        "tomb"
+    ],
+    "medina": [
+        "medina"
+    ],
+    "water moat": [
+        "water moat",
+        "moat"
+    ],
+    "outdoor monastery": [
+        "outdoor monastery"
+    ],
+    "indoor mosque": [
+        "indoor mosque"
+    ],
+    "outdoor mosque": [
+        "outdoor mosque",
+        "mosque"
+    ],
+    "motel": [
+        "motel"
+    ],
+    "mountain": [
+        "mountain"
+    ],
+    "mountain_snowy": [
+        "mountain snowy"
+    ],
+    "indoor movie_theater": [
+        "indoor movie theater"
+    ],
+    "indoor museum": [
+        "indoor museum"
+    ],
+    "music_store": [
+        "music store",
+        "record shop",
+        "instrument shop",
+        "music shop",
+        "vinyl store"
+    ],
+    "music_studio": [
+        "music studio",
+        "studio",
+        "recording studio"
+    ],
+    "outdoor nuclear_power_plant": [
+        "outdoor nuclear power plant",
+        "nuclear power plant"
+    ],
+    "nursery": [
+        "nursery"
+    ],
+    "oast_house": [
+        "oast house",
+        "oast"
+    ],
+    "outdoor observatory": [
+        "outdoor observatory",
+        "observatory"
+    ],
+    "ocean": [
+        "ocean",
+        "sea"
+    ],
+    "office": [
+        "office",
+        "workspace",
+        "workplace",
+        "workstation"
+    ],
+    "office_building": [
+        "office building",
+        "building"
+    ],
+    "outdoor oil_refinery": [
+        "outdoor oil refinery",
+        "refinery"
+    ],
+    "oilrig": [
+        "oilrig",
+        "oil rig",
+        "offshore platform"
+    ],
+    "operating_room": [
+        "operating room",
+        "surgery",
+        "operating theater",
+        "operating suite"
+    ],
+    "orchard": [
+        "orchard",
+        "orchard field"
+    ],
+    "outdoor outhouse": [
+        "outdoor outhouse",
+        "outhouse"
+    ],
+    "pagoda": [
+        "pagoda"
+    ],
+    "palace": [
+        "palace"
+    ],
+    "pantry": [
+        "pantry"
+    ],
+    "park": [
+        "park",
+        "green space"
+    ],
+    "indoor parking_garage": [
+        "indoor parking garage"
+    ],
+    "outdoor parking_garage": [
+        "outdoor parking garage"
+    ],
+    "parking_lot": [
+        "parking lot",
+        "car park"
+    ],
+    "parlor": [
+        "parlor"
+    ],
+    "pasture": [
+        "pasture"
+    ],
+    "patio": [
+        "patio"
+    ],
+    "pavilion": [
+        "pavilion"
+    ],
+    "pharmacy": [
+        "pharmacy"
+    ],
+    "phone_booth": [
+        "phone booth",
+        "phone box"
+    ],
+    "physics_laboratory": [
+        "physics laboratory",
+        "physics lab"
+    ],
+    "picnic_area": [
+        "picnic area",
+        "picnic spot",
+        "picnic ground"
+    ],
+    "indoor pilothouse": [
+        "indoor pilothouse",
+        "pilothouse",
+        "wheelhouse"
+    ],
+    "outdoor planetarium": [
+        "outdoor planetarium"
+    ],
+    "playground": [
+        "playground"
+    ],
+    "playroom": [
+        "playroom"
+    ],
+    "plaza": [
+        "plaza"
+    ],
+    "indoor podium": [
+        "indoor podium"
+    ],
+    "outdoor podium": [
+        "outdoor podium",
+        "podium"
+    ],
+    "pond": [
+        "pond"
+    ],
+    "establishment poolroom": [
+        "establishment poolroom"
+    ],
+    "home poolroom": [
+        "home poolroom",
+        "poolroom"
+    ],
+    "outdoor power_plant": [
+        "outdoor power plant",
+        "power plant"
+    ],
+    "promenade_deck": [
+        "promenade deck"
+    ],
+    "indoor pub": [
+        "indoor pub",
+        "pub"
+    ],
+    "pulpit": [
+        "pulpit",
+        "lectern"
+    ],
+    "putting_green": [
+        "putting green",
+        "putting surface"
+    ],
+    "racecourse": [
+        "racecourse"
+    ],
+    "raceway": [
+        "raceway"
+    ],
+    "raft": [
+        "raft"
+    ],
+    "railroad_track": [
+        "railroad track"
+    ],
+    "rainforest": [
+        "rainforest",
+        "jungle",
+        "tropical forest",
+        "rain forest"
+    ],
+    "reception": [
+        "reception"
+    ],
+    "recreation_room": [
+        "recreation room",
+        "rec room"
+    ],
+    "residential_neighborhood": [
+        "residential neighborhood",
+        "neighborhood",
+        "residential area"
+    ],
+    "restaurant": [
+        "restaurant",
+        "eatery"
+    ],
+    "restaurant_kitchen": [
+        "restaurant kitchen"
+    ],
+    "restaurant_patio": [
+        "restaurant patio"
+    ],
+    "rice_paddy": [
+        "rice paddy",
+        "rice field"
+    ],
+    "riding_arena": [
+        "riding arena",
+        "riding ring",
+        "indoor arena",
+        "equestrian arena"
+    ],
+    "river": [
+        "river"
+    ],
+    "rock_arch": [
+        "rock arch"
+    ],
+    "rope_bridge": [
+        "rope bridge",
+        "suspension bridge"
+    ],
+    "ruin": [
+        "ruin",
+        "ruins",
+        "remnants"
+    ],
+    "runway": [
+        "runway"
+    ],
+    "sandbar": [
+        "sandbar"
+    ],
+    "sandbox": [
+        "sandbox"
+    ],
+    "sauna": [
+        "sauna"
+    ],
+    "schoolhouse": [
+        "schoolhouse"
+    ],
+    "sea_cliff": [
+        "sea cliff"
+    ],
+    "server_room": [
+        "server room"
+    ],
+    "shed": [
+        "shed",
+        "outbuilding"
+    ],
+    "shoe_shop": [
+        "shoe shop",
+        "shoe store",
+        "footwear store",
+        "shoe outlet",
+        "shoe boutique"
+    ],
+    "shopfront": [
+        "shopfront",
+        "storefront"
+    ],
+    "indoor shopping_mall": [
+        "indoor shopping mall",
+        "mall",
+        "shopping center"
+    ],
+    "shower": [
+        "shower"
+    ],
+    "skatepark": [
+        "skatepark",
+        "skate plaza"
+    ],
+    "ski_lodge": [
+        "ski lodge",
+        "lodge"
+    ],
+    "ski_resort": [
+        "ski resort",
+        "ski area"
+    ],
+    "ski_slope": [
+        "ski slope"
+    ],
+    "sky": [
+        "sky",
+        "heavens"
+    ],
+    "skyscraper": [
+        "skyscraper",
+        "high-rise"
+    ],
+    "slum": [
+        "slum"
+    ],
+    "snowfield": [
+        "snowfield"
+    ],
+    "squash_court": [
+        "squash court"
+    ],
+    "stable": [
+        "stable"
+    ],
+    "baseball stadium": [
+        "baseball stadium",
+        "ballpark"
+    ],
+    "football stadium": [
+        "football stadium",
+        "stadium"
+    ],
+    "indoor stage": [
+        "indoor stage",
+        "stage"
+    ],
+    "staircase": [
+        "staircase",
+        "stairway",
+        "stairs",
+        "steps",
+        "stairwell"
+    ],
+    "street": [
+        "street"
+    ],
+    "subway_interior": [
+        "subway interior"
+    ],
+    "platform subway_station": [
+        "platform subway station"
+    ],
+    "supermarket": [
+        "supermarket",
+        "grocery store",
+        "grocery"
+    ],
+    "sushi_bar": [
+        "sushi bar",
+        "sushi counter"
+    ],
+    "swamp": [
+        "swamp"
+    ],
+    "indoor swimming_pool": [
+        "indoor swimming pool",
+        "indoor pool"
+    ],
+    "outdoor swimming_pool": [
+        "outdoor swimming pool",
+        "pool",
+        "swimming pool"
+    ],
+    "indoor synagogue": [
+        "indoor synagogue",
+        "synagogue",
+        "shul"
+    ],
+    "outdoor synagogue": [
+        "outdoor synagogue"
+    ],
+    "television_studio": [
+        "television studio"
+    ],
+    "east_asia temple": [
+        "east asia temple"
+    ],
+    "south_asia temple": [
+        "south asia temple",
+        "temple"
+    ],
+    "indoor tennis_court": [
+        "indoor tennis court",
+        "indoor court"
+    ],
+    "outdoor tennis_court": [
+        "outdoor tennis court",
+        "tennis court"
+    ],
+    "outdoor tent": [
+        "outdoor tent",
+        "tent",
+        "canopy"
+    ],
+    "indoor_procenium theater": [
+        "indoor procenium theater"
+    ],
+    "indoor_seats theater": [
+        "indoor seats theater"
+    ],
+    "thriftshop": [
+        "thriftshop",
+        "thrift store",
+        "secondhand shop"
+    ],
+    "throne_room": [
+        "throne room"
+    ],
+    "ticket_booth": [
+        "ticket booth",
+        "kiosk"
+    ],
+    "toll_plaza": [
+        "toll plaza",
+        "toll booth"
+    ],
+    "topiary_garden": [
+        "topiary garden"
+    ],
+    "tower": [
+        "tower"
+    ],
+    "toyshop": [
+        "toyshop",
+        "toy store",
+        "toy shop"
+    ],
+    "outdoor track": [
+        "outdoor track",
+        "track",
+        "running track"
+    ],
+    "train_railway": [
+        "train railway",
+        "railway"
+    ],
+    "platform train_station": [
+        "platform train station"
+    ],
+    "tree_farm": [
+        "tree farm",
+        "tree plantation"
+    ],
+    "tree_house": [
+        "tree house",
+        "treehouse",
+        "tree fort"
+    ],
+    "trench": [
+        "trench"
+    ],
+    "coral_reef underwater": [
+        "coral reef underwater",
+        "coral reef",
+        "reef"
+    ],
+    "utility_room": [
+        "utility room",
+        "laundry room"
+    ],
+    "valley": [
+        "valley"
+    ],
+    "van_interior": [
+        "van interior"
+    ],
+    "vegetable_garden": [
+        "vegetable garden"
+    ],
+    "veranda": [
+        "veranda",
+        "porch"
+    ],
+    "veterinarians_office": [
+        "veterinarians office",
+        "vet clinic"
+    ],
+    "viaduct": [
+        "viaduct"
+    ],
+    "videostore": [
+        "videostore",
+        "video store"
+    ],
+    "village": [
+        "village"
+    ],
+    "vineyard": [
+        "vineyard",
+        "winery"
+    ],
+    "volcano": [
+        "volcano"
+    ],
+    "indoor volleyball_court": [
+        "indoor volleyball court"
+    ],
+    "outdoor volleyball_court": [
+        "outdoor volleyball court"
+    ],
+    "waiting_room": [
+        "waiting room"
+    ],
+    "indoor warehouse": [
+        "indoor warehouse",
+        "warehouse"
+    ],
+    "water_tower": [
+        "water tower",
+        "water tank"
+    ],
+    "block waterfall": [
+        "block waterfall"
+    ],
+    "fan waterfall": [
+        "fan waterfall"
+    ],
+    "plunge waterfall": [
+        "plunge waterfall",
+        "waterfall"
+    ],
+    "watering_hole": [
+        "watering hole"
+    ],
+    "wave": [
+        "wave"
+    ],
+    "wet_bar": [
+        "wet bar"
+    ],
+    "wheat_field": [
+        "wheat field"
+    ],
+    "wind_farm": [
+        "wind farm",
+        "wind park"
+    ],
+    "windmill": [
+        "windmill"
+    ],
+    "barrel_storage wine_cellar": [
+        "barrel storage wine cellar"
+    ],
+    "bottle_storage wine_cellar": [
+        "bottle storage wine cellar",
+        "wine storage"
+    ],
+    "indoor wrestling_ring": [
+        "indoor wrestling ring"
+    ],
+    "yard": [
+        "yard",
+        "garden"
+    ],
+    "youth_hostel": [
+        "youth hostel",
+        "hostel"
+    ]
+}

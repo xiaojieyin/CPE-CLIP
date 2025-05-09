@@ -1,0 +1,1503 @@
+{
+    "stingray": [
+        "stingray",
+        "eagle ray"
+    ],
+    "goldfinch": [
+        "european goldfinch",
+        "yellow finch",
+        "goldfinch",
+        "eurasian goldfinch",
+        "american goldfinch"
+    ],
+    "junco": [
+        "junco bird",
+        "juncos",
+        "dark eyed junco",
+        "junco"
+    ],
+    "American robin": [
+        "north american robin",
+        "turdus migratorius",
+        "american robin"
+    ],
+    "jay": [
+        "black throated jay",
+        "florida jay",
+        "mexican jay",
+        "california jay",
+        "eurasian jay",
+        "blue jay",
+        "jay"
+    ],
+    "bald eagle": [
+        "american bald eagle",
+        "american national bird",
+        "american eagle",
+        "bald eagle"
+    ],
+    "vulture": [
+        "vulture"
+    ],
+    "newt": [
+        "newt"
+    ],
+    "American bullfrog": [
+        "north american bullfrog",
+        "american bullfrog",
+        "giant bullfrog",
+        "bullfrog",
+        "bullfrog tadpole"
+    ],
+    "box turtle": [
+        "box turtle",
+        "eastern box turtle",
+        "box tortoise"
+    ],
+    "green iguana": [
+        "green tree iguana",
+        "common green iguana",
+        "common iguana",
+        "american iguana",
+        "green iguana",
+        "iguana iguana"
+    ],
+    "agama": [
+        "agama lizard family",
+        "agama genus",
+        "old world agama",
+        "agama species",
+        "agama reptile",
+        "agama lizard",
+        "agama"
+    ],
+    "chameleon": [
+        "african chameleon",
+        "chamaeleo chamaeleon",
+        "chameleon"
+    ],
+    "American alligator": [
+        "louisiana alligator",
+        "american alligator",
+        "alligator mississipiensis",
+        "florida alligator",
+        "alligator mississippiensis",
+        "north american alligator"
+    ],
+    "garter snake": [
+        "garter snake"
+    ],
+    "harvestman": [
+        "harvestman spider",
+        "harvestman"
+    ],
+    "scorpion": [
+        "scorpion"
+    ],
+    "tarantula": [
+        "tarantula spider",
+        "giant tarantula",
+        "tarantula"
+    ],
+    "centipede": [
+        "centipede"
+    ],
+    "sulphur-crested cockatoo": [
+        "yellow crested cockatoo",
+        "sulphur crested cockatoo",
+        "sulphur-crested cockatoo",
+        "crested cockatoo",
+        "white cockatoo"
+    ],
+    "lorikeet": [
+        "lorikeet",
+        "green naped lorikeet",
+        "perfect lorikeet",
+        "red collared lorikeet",
+        "red lorikeet",
+        "scaly breasted lorikeet",
+        "purple crowned lorikeet",
+        "rainbow lorikeet"
+    ],
+    "hummingbird": [
+        "hummingbird",
+        "jewel bird",
+        "colibri",
+        "beater"
+    ],
+    "toucan": [
+        "keel billed toucan",
+        "throated toucan",
+        "toco toucan",
+        "chestnut mandibled toucan",
+        "toucan"
+    ],
+    "duck": [
+        "waterfowl",
+        "duck",
+        "mallard"
+    ],
+    "goose": [
+        "domestic goose",
+        "greylag goose",
+        "goose",
+        "snow goose",
+        "brant goose",
+        "giant canada goose",
+        "white fronted goose",
+        "canadian goose"
+    ],
+    "koala": [
+        "koala",
+        "koala bear",
+        "australian koala"
+    ],
+    "jellyfish": [
+        "jellyfish",
+        "gelatinous zooplankton",
+        "sea jelly"
+    ],
+    "sea anemone": [
+        "sea anemone"
+    ],
+    "flatworm": [
+        "flatworm"
+    ],
+    "snail": [
+        "land snail",
+        "snail",
+        "garden snail"
+    ],
+    "crayfish": [
+        "crawdad",
+        "crayfish",
+        "crawdaddy"
+    ],
+    "hermit crab": [
+        "hermit crab"
+    ],
+    "flamingo": [
+        "flamingo",
+        "pink bird",
+        "feathered flamingo",
+        "elegant flamingo",
+        "flamingo bird"
+    ],
+    "great egret": [
+        "great egret",
+        "great white heron",
+        "white heron",
+        "egretta albus",
+        "american egret"
+    ],
+    "oystercatcher": [
+        "oyster catcher",
+        "oystercatcher"
+    ],
+    "pelican": [
+        "common pelican",
+        "pelican",
+        "white pelican",
+        "brown pelican"
+    ],
+    "sea lion": [
+        "eared seal",
+        "pinniped",
+        "australian sea lion",
+        "california sea lion",
+        "galapagos sea lion",
+        "sea lion"
+    ],
+    "Chihuahua": [
+        "chihuahua",
+        "chihuahua breed",
+        "chi chi",
+        "tiny dog",
+        "chihuahua mix",
+        "teacup chihuahua",
+        "chihuahua terrier",
+        "chihuahua dog"
+    ],
+    "Golden Retriever": [
+        "golden retriever",
+        "goldie"
+    ],
+    "Rottweiler": [
+        "rottweiler pet",
+        "rott",
+        "rottweiler mix",
+        "rottweiler pup",
+        "rottweiler",
+        "rottweiler companion",
+        "rottiedog",
+        "rottweiler dog",
+        "rottweiler breed",
+        "rottie"
+    ],
+    "German Shepherd Dog": [
+        "gsd",
+        "german shepherd dog",
+        "german shepherd",
+        "alsatian shepherd",
+        "german police dog",
+        "alsatian"
+    ],
+    "pug": [
+        "pug dog",
+        "pug",
+        "pug puppy",
+        "pug breed",
+        "chinese pug",
+        "puglet"
+    ],
+    "red fox": [
+        "dog fox",
+        "vulpes vulpes",
+        "red fox",
+        "reynard",
+        "common fox"
+    ],
+    "Persian cat": [
+        "persian cat",
+        "persian longhair",
+        "persian doll face cat",
+        "fluffy persian cat",
+        "iranian cat"
+    ],
+    "lynx": [
+        "bobcat",
+        "eurasian lynx",
+        "lynx",
+        "iberian lynx",
+        "canadian lynx"
+    ],
+    "lion": [
+        "panthera leo",
+        "african lion",
+        "lion"
+    ],
+    "American black bear": [
+        "north american black bear",
+        "black bear",
+        "american black bear",
+        "new world black bear"
+    ],
+    "mongoose": [
+        "mongooses",
+        "mongoose species",
+        "mongoose"
+    ],
+    "ladybug": [
+        "ladybird",
+        "ladybug",
+        "ladybird beetle",
+        "lady beetle"
+    ],
+    "rhinoceros beetle": [
+        "rhino beetle",
+        "elephant beetle",
+        "hercules beetle",
+        "rhinoceros beetle",
+        "dynastinae"
+    ],
+    "weevil": [
+        "beetle weevil",
+        "weevil",
+        "grain weevil",
+        "boll weevil",
+        "rice weevil"
+    ],
+    "fly": [
+        "domestic fly",
+        "annoying fly",
+        "common housefly",
+        "housefly",
+        "house fly",
+        "common fly",
+        "pesky fly",
+        "fly"
+    ],
+    "bee": [
+        "honeybee",
+        "africanized bee",
+        "honey bee",
+        "solitary bee",
+        "carpenter bee",
+        "queen bee",
+        "bumblebee",
+        "worker bee",
+        "yellow jacket",
+        "bee",
+        "stingless bee",
+        "drone bee"
+    ],
+    "ant": [
+        "garden ant",
+        "fire ant",
+        "black ant",
+        "carpenter ant",
+        "army ant",
+        "argentine ant",
+        "ant",
+        "wood ant",
+        "pharaoh ant",
+        "red ant"
+    ],
+    "grasshopper": [
+        "grasshopper"
+    ],
+    "stick insect": [
+        "stick bug",
+        "stick insect"
+    ],
+    "cockroach": [
+        "cockroaches",
+        "cockroach"
+    ],
+    "praying mantis": [
+        "praying mantis",
+        "mantid",
+        "preying mantis"
+    ],
+    "leafhopper": [
+        "treehopper",
+        "tree hopper",
+        "leaf hopper",
+        "leafhopper",
+        "phytopteran"
+    ],
+    "dragonfly": [
+        "dragonfly",
+        "mosquito hawk",
+        "dragonfly darter"
+    ],
+    "monarch butterfly": [
+        "royal butterfly",
+        "king of butterflies",
+        "monarch of the skies",
+        "monarch butterfly"
+    ],
+    "small white butterfly": [
+        "small cabbage white butterfly",
+        "common white butterfly",
+        "cabbage white butterfly",
+        "white cabbage butterfly",
+        "small white butterfly",
+        "cabbage butterfly"
+    ],
+    "gossamer-winged butterfly": [
+        "fine winged butterfly",
+        "gossamer-winged butterfly",
+        "gossamer winged butterfly",
+        "sheer winged butterfly",
+        "delicate winged butterfly"
+    ],
+    "starfish": [
+        "starfish",
+        "sea star"
+    ],
+    "cottontail rabbit": [
+        "cottontail",
+        "eastern cottontail",
+        "cottontail bunny",
+        "eastern rabbit",
+        "cottontail hare",
+        "cottontail rabbit"
+    ],
+    "porcupine": [
+        "porcupine"
+    ],
+    "fox squirrel": [
+        "fox squirrel",
+        "eastern fox squirrel",
+        "tree squirrel"
+    ],
+    "marmot": [
+        "marmot",
+        "woodchuck",
+        "alpine marmot",
+        "groundhog"
+    ],
+    "bison": [
+        "plains bison",
+        "bison buffalo",
+        "american buffalo",
+        "bison bison",
+        "american bison",
+        "bison"
+    ],
+    "skunk": [
+        "skunk",
+        "striped skunk",
+        "pepe le pew"
+    ],
+    "armadillo": [
+        "plated armadillo",
+        "southern armadillo",
+        "armadillo",
+        "texas armadillo",
+        "nine banded armadillo"
+    ],
+    "baboon": [
+        "mandrill baboon",
+        "hamadryas baboon",
+        "baboon",
+        "chacma baboon",
+        "yellow baboon",
+        "african baboon",
+        "guinea baboon",
+        "olive baboon",
+        "drill baboon"
+    ],
+    "white-headed capuchin": [
+        "white throated capuchin",
+        "white capped capuchin",
+        "white headed capuchin",
+        "white-headed capuchin"
+    ],
+    "African bush elephant": [
+        "savanna elephant",
+        "african forest elephant",
+        "african bush elephant",
+        "african elephant"
+    ],
+    "pufferfish": [
+        "blowfish",
+        "fugu",
+        "porcupine fish",
+        "swellfish",
+        "pufferfish"
+    ],
+    "academic gown": [
+        "academic gown",
+        "graduation robe",
+        "judges robe",
+        "university gown",
+        "academic robe"
+    ],
+    "accordion": [
+        "concertina",
+        "accordeon",
+        "bandoneon",
+        "melodeon",
+        "piano accordion",
+        "accordion",
+        "squeezebox",
+        "cajun accordion"
+    ],
+    "acoustic guitar": [
+        "steel string acoustic",
+        "jumbo guitar",
+        "acoustic guitar",
+        "folk guitar",
+        "classical guitar",
+        "auditorium guitar",
+        "western guitar",
+        "steel string guitar",
+        "flat top guitar",
+        "acoustic six string",
+        "dreadnought guitar"
+    ],
+    "airliner": [
+        "jetliner",
+        "passenger plane",
+        "airliner",
+        "commercial airline",
+        "commercial aircraft"
+    ],
+    "ambulance": [
+        "ambulance",
+        "rescue vehicle",
+        "ambulance service",
+        "ambulance crew",
+        "emergency vehicle",
+        "an ambulance",
+        "ems vehicle",
+        "medevac",
+        "medical transport"
+    ],
+    "apron": [
+        "craft apron",
+        "apron",
+        "grilling apron",
+        "bib apron",
+        "chefs apron",
+        "kitchen apron",
+        "servers apron",
+        "barbecue apron",
+        "cooking apron",
+        "server apron",
+        "barista apron",
+        "chef apron",
+        "cleaning apron",
+        "baking apron",
+        "waist apron",
+        "gardening apron"
+    ],
+    "balance beam": [
+        "balance beam",
+        "womens beam",
+        "artistic beam"
+    ],
+    "balloon": [
+        "air filled sphere",
+        "inflatable orb",
+        "inflated rubber ball",
+        "balloon"
+    ],
+    "banjo": [
+        "five string banjo",
+        "open back banjo",
+        "resonator banjo",
+        "scruggs style banjo",
+        "clawhammer banjo",
+        "plectrum banjo",
+        "closed back banjo",
+        "banjo",
+        "tenor banjo",
+        "four string banjo",
+        "bluegrass banjo"
+    ],
+    "barn": [
+        "barn",
+        "farm building",
+        "agricultural shed",
+        "rural storage shed",
+        "livestock shelter",
+        "rural storage structure",
+        "hayloft"
+    ],
+    "wheelbarrow": [
+        "garden cart",
+        "wheelbarrow"
+    ],
+    "basketball": [
+        "basketball",
+        "b ball",
+        "bball",
+        "hoops ball"
+    ],
+    "lighthouse": [
+        "light tower",
+        "beacon light",
+        "lighthouse",
+        "coastal lighthouse",
+        "marine lighthouse",
+        "light station",
+        "coastal landmark"
+    ],
+    "beaker": [
+        "glass beaker",
+        "beaker",
+        "chemical beaker",
+        "graduated beaker",
+        "scientific beaker",
+        "research beaker",
+        "chemistry beaker",
+        "glassware beaker",
+        "experiment beaker",
+        "laboratory beaker",
+        "science beaker"
+    ],
+    "bikini": [
+        "bikini",
+        "bikini set"
+    ],
+    "hunting bow": [
+        "hunting bow",
+        "traditional bow"
+    ],
+    "bow tie": [
+        "bowtie",
+        "necktie bow",
+        "tuxedo tie",
+        "bow tie"
+    ],
+    "breastplate": [
+        "chest armor",
+        "breastplate"
+    ],
+    "broom": [
+        "corn broom",
+        "broomstick",
+        "yard broom",
+        "floor brush",
+        "hand broom",
+        "push broom",
+        "whisk broom",
+        "besom",
+        "witchs broom",
+        "broom"
+    ],
+    "candle": [
+        "tea light",
+        "floating candle",
+        "jar candle",
+        "votive",
+        "candle",
+        "wick light",
+        "candlestick"
+    ],
+    "canoe": [
+        "pirogue",
+        "birchbark canoe",
+        "kayak",
+        "traditional / native canoe",
+        "outrigger canoe",
+        "small rowboat",
+        "canoeing vessel",
+        "dugout canoe",
+        "canoe",
+        "single / double / triple canoe"
+    ],
+    "castle": [
+        "fort",
+        "fortress",
+        "ch\u00e2teau",
+        "citadel",
+        "bastion",
+        "castle",
+        "chateau",
+        "stronghold"
+    ],
+    "cello": [
+        "violoncello",
+        "cello"
+    ],
+    "chain": [
+        "bike chain",
+        "conveyor chain",
+        "bicycle chain",
+        "dog chain",
+        "safety chain",
+        "chain strap",
+        "pocket watch chain",
+        "ankle chain",
+        "chain"
+    ],
+    "storage chest": [
+        "wooden chest",
+        "storage chest"
+    ],
+    "Christmas stocking": [
+        "seasonal stocking",
+        "stocking stuffer",
+        "xmas stocking",
+        "christmas socking",
+        "yule stocking",
+        "santa stocking",
+        "christmas sock",
+        "christmas stocking",
+        "holiday stocking",
+        "gift stocking"
+    ],
+    "cowboy boot": [
+        "rodeo boot",
+        "cowboy boot",
+        "cowpoke boot",
+        "cowboy footwear",
+        "cowgirl boot",
+        "texas boot"
+    ],
+    "cradle": [
+        "cradle",
+        "toddler cradle"
+    ],
+    "rotary dial telephone": [
+        "old fashioned phone",
+        "dial phone",
+        "antique phone",
+        "rotary dial telephone",
+        "dial telephone",
+        "dial up phone"
+    ],
+    "digital clock": [
+        "digital clock",
+        "time display device",
+        "led clock",
+        "electronic time display",
+        "lcd clock",
+        "digi clock or digi clock",
+        "electronic clock"
+    ],
+    "doormat": [
+        "step mat",
+        "entrance mat",
+        "greeting mat",
+        "front door mat",
+        "outdoor mat",
+        "indoor mat",
+        "floor mat",
+        "doormat",
+        "door mat",
+        "rug for the doorway",
+        "welcome mat"
+    ],
+    "drumstick": [
+        "drum stick",
+        "drumstick",
+        "drumsticks",
+        "drumming sticks"
+    ],
+    "dumbbell": [
+        "fitness dumbbell",
+        "strength training tool",
+        "workout dumbbell",
+        "weightlifting dumbbell",
+        "adjustable dumbbell",
+        "dumbbell",
+        "fitness weight",
+        "exercise dumbbell",
+        "gym weight"
+    ],
+    "envelope": [
+        "mailing package",
+        "postal sleeve",
+        "envelope",
+        "postal cover",
+        "letter envelope",
+        "letter cover",
+        "mailing envelope",
+        "envelope packet",
+        "paper envelope",
+        "mail envelope",
+        "sealable envelope"
+    ],
+    "feather boa": [
+        "feather boa",
+        "fancy feather stole"
+    ],
+    "flagpole": [
+        "flag holder",
+        "flag pole",
+        "flag mast",
+        "flagpole"
+    ],
+    "forklift": [
+        "pallet truck",
+        "lift truck",
+        "forklift",
+        "fork truck",
+        "material handling equipment",
+        "warehouse forklift"
+    ],
+    "fountain": [
+        "water fountain",
+        "drinking fountain",
+        "decorative fountain",
+        "public fountain",
+        "fountain"
+    ],
+    "garbage truck": [
+        "refuse truck",
+        "waste management vehicle",
+        "sanitation truck",
+        "trash truck",
+        "rubbish truck",
+        "garbage collector",
+        "dustbin lorry",
+        "waste collection vehicle",
+        "landfill truck",
+        "garbage truck",
+        "recycling truck"
+    ],
+    "goblet": [
+        "chalice",
+        "stemmed glass",
+        "goblet"
+    ],
+    "go-kart": [
+        "go kart racer",
+        "go kart",
+        "go karting vehicle",
+        "go-kart",
+        "racing kart",
+        "go cart"
+    ],
+    "golf cart": [
+        "golf car",
+        "golf vehicle",
+        "golf cart",
+        "golf trolley",
+        "golfcart",
+        "golf buggy"
+    ],
+    "grand piano": [
+        "full grand piano",
+        "concert piano",
+        "large grand piano",
+        "grand piano"
+    ],
+    "hair dryer": [
+        "blow drier",
+        "hair drier",
+        "hair blower",
+        "hair styling tool",
+        "hair dryer",
+        "blow dryer"
+    ],
+    "clothes iron": [
+        "pressing iron",
+        "garment iron",
+        "ironing appliance",
+        "clothes iron",
+        "smoothing iron"
+    ],
+    "carved pumpkin": [
+        "pumpkin lantern",
+        "carved pumpkin",
+        "pumpkin decoration"
+    ],
+    "jeep": [
+        "off roader",
+        "jeep",
+        "landrover defender",
+        "wrangler",
+        "grand cherokee"
+    ],
+    "kimono": [
+        "kimono clothing",
+        "kimono dress",
+        "japanese garment",
+        "traditional japanese garment",
+        "kimono gown",
+        "japanese robe",
+        "japanese kimono",
+        "traditional japanese robe",
+        "kimono",
+        "kimono robe",
+        "kimono attire"
+    ],
+    "lighter": [
+        "windproof lighter",
+        "refillable lighter",
+        "gas lighter",
+        "pocket lighter",
+        "butane lighter",
+        "disposable lighter",
+        "torch lighter",
+        "flame lighter",
+        "cigarette lighter",
+        "lighter"
+    ],
+    "limousine": [
+        "limo",
+        "limousine",
+        "chauffeured vehicle"
+    ],
+    "manhole cover": [
+        "sewer cover",
+        "drain cover",
+        "manhole cover",
+        "utility cover"
+    ],
+    "maraca": [
+        "maraca",
+        "maracas"
+    ],
+    "marimba": [
+        "marimba"
+    ],
+    "mask": [
+        "facial mask",
+        "cloth mask",
+        "face covering",
+        "protective mask",
+        "disposable mask",
+        "n95 mask",
+        "mask",
+        "dust mask",
+        "medical mask",
+        "surgical mask",
+        "face mask"
+    ],
+    "mitten": [
+        "mitten",
+        "winter mitt",
+        "winter glove",
+        "thumbless mitt",
+        "cold weather mitt",
+        "fingerless mitt",
+        "fingerless mitten"
+    ],
+    "mosque": [
+        "mosque",
+        "muslim place of worship",
+        "islamic center",
+        "masjid"
+    ],
+    "metal nail": [
+        "nail made of metal",
+        "steel nail",
+        "metal nail",
+        "iron nail"
+    ],
+    "obelisk": [
+        "obelisk"
+    ],
+    "ocarina": [
+        "ocarina"
+    ],
+    "pipe organ": [
+        "digital organ",
+        "cathedral organ",
+        "concert organ",
+        "pipe organ",
+        "tracker organ",
+        "pipe driven organ",
+        "classical organ",
+        "church organ",
+        "sacred organ"
+    ],
+    "parachute": [
+        "parachute",
+        "silkscreen canopy"
+    ],
+    "parking meter": [
+        "coin operated parking machine",
+        "metered parking device",
+        "metered parking machine",
+        "parking ticket dispenser",
+        "parking ticket machine",
+        "parking meter",
+        "parking fee station",
+        "parking machine"
+    ],
+    "piggy bank": [
+        "piggy bank",
+        "savings bank",
+        "penny bank",
+        "coin bank",
+        "money box"
+    ],
+    "pool table": [
+        "pool table",
+        "snooker table",
+        "pocket billiards table",
+        "billiard table",
+        "cue sports table",
+        "billiards table"
+    ],
+    "hockey puck": [
+        "hockey disc",
+        "hockey puck"
+    ],
+    "quill": [
+        "ink quill",
+        "feather pen",
+        "quill pen",
+        "feather quill",
+        "writing quill",
+        "calligraphy quill",
+        "quill"
+    ],
+    "racket": [
+        "tennis racket",
+        "squash racket",
+        "racquetball racket",
+        "badminton racket",
+        "paddle tennis racket",
+        "racket"
+    ],
+    "fishing casting reel": [
+        "fishing casting reel",
+        "casting baitcaster",
+        "conventional reel",
+        "baitcasting reel",
+        "casting fishing reel",
+        "casting reel"
+    ],
+    "revolver": [
+        "revolver",
+        "handgun"
+    ],
+    "rocking chair": [
+        "rocking seat",
+        "rocking recliner",
+        "rocker chair",
+        "rocking armchair",
+        "rocker armchair",
+        "rocking chair",
+        "glider rocking chair",
+        "glider chair"
+    ],
+    "rugby ball": [
+        "rugby ball",
+        "rugby pigskin",
+        "rugby egg",
+        "rugby oval"
+    ],
+    "salt shaker": [
+        "salt cellar",
+        "salt shaker",
+        "salt canister",
+        "salt pot",
+        "saltshaker",
+        "salt container",
+        "salt cruet",
+        "salt holder",
+        "salt jar",
+        "salt dispenser"
+    ],
+    "sandal": [
+        "sandal",
+        "thong sandals",
+        "platform sandals",
+        "ankle strap sandals",
+        "sandals",
+        "slip on sandals",
+        "gladiator sandals",
+        "wedge sandals",
+        "slide sandals",
+        "slingback sandals"
+    ],
+    "saxophone": [
+        "saxophone",
+        "sax"
+    ],
+    "school bus": [
+        "school bus",
+        "student bus",
+        "yellow bus",
+        "education bus",
+        "school transportation",
+        "school coach",
+        "childrens bus"
+    ],
+    "schooner": [
+        "coastal schooner",
+        "traditional schooner",
+        "five masted schooner",
+        "topsail schooner",
+        "sailing schooner",
+        "three masted schooner",
+        "tall ship schooner",
+        "two masted schooner",
+        "fore and aft rigged schooner",
+        "fore and aft schooner",
+        "gaff rigged schooner",
+        "four masted schooner",
+        "square rigged schooner",
+        "schooner",
+        "bermuda rigged schooner",
+        "classic schooner"
+    ],
+    "sewing machine": [
+        "seamstress machine",
+        "stitching equipment",
+        "sewing machine",
+        "tailoring machine",
+        "sewing appliance",
+        "domestic sewing machine",
+        "sewing apparatus",
+        "fabric sewing machine",
+        "stitching machine",
+        "stitch machine",
+        "stitching device",
+        "sewing device",
+        "sewing tool",
+        "sewing equipment"
+    ],
+    "shovel": [
+        "digging tool",
+        "trowel",
+        "shovel"
+    ],
+    "sleeping bag": [
+        "bedroll",
+        "outdoor sleeping bag",
+        "sleeping bag",
+        "sleep sack",
+        "portable sleeping mat",
+        "portable sleeping bag"
+    ],
+    "snowmobile": [
+        "snowcat",
+        "snow cruiser",
+        "snow scooter",
+        "snowmobile"
+    ],
+    "snowplow": [
+        "snowplough",
+        "winter maintenance vehicle",
+        "snow pusher",
+        "snow truck",
+        "snowplow",
+        "snow clearing vehicle",
+        "snow blade",
+        "snow removal equipment",
+        "plow truck"
+    ],
+    "soap dispenser": [
+        "hand soap dispenser",
+        "soap dispenser bottle",
+        "soap container",
+        "soap dispenser pump",
+        "soap bottle",
+        "soap dispenser",
+        "soap pump",
+        "soap pump bottle",
+        "liquid soap dispenser",
+        "soap bottle with pump"
+    ],
+    "spatula": [
+        "cooking spatula",
+        "mixing spatula",
+        "grill spatula",
+        "kitchen spatula",
+        "fish spatula",
+        "spatula"
+    ],
+    "spider web": [
+        "spider web",
+        "cobweb",
+        "arachnid trap",
+        "spiders web"
+    ],
+    "steam locomotive": [
+        "steam loco",
+        "steam powered locomotive",
+        "steam engine",
+        "steam driven locomotive",
+        "steam driven train",
+        "steam powered train",
+        "steam locomotive",
+        "steam train"
+    ],
+    "stethoscope": [
+        "cardiac stethoscope",
+        "doctors stethoscope",
+        "doctors tool",
+        "stethoscope"
+    ],
+    "couch": [
+        "day bed",
+        "studio couch",
+        "futon",
+        "chesterfield",
+        "settee",
+        "loveseat",
+        "couch"
+    ],
+    "submarine": [
+        "submersible",
+        "u boat",
+        "underwater vessel",
+        "submarine",
+        "submersible warship"
+    ],
+    "sundial": [
+        "sundial",
+        "sun clock"
+    ],
+    "suspension bridge": [
+        "floating bridge",
+        "catenary bridge",
+        "cable stayed bridge",
+        "suspension bridge",
+        "high level bridge",
+        "tension bridge",
+        "rope bridge",
+        "wire bridge",
+        "hanging bridge",
+        "swing bridge"
+    ],
+    "syringe": [
+        "syringe",
+        "medical syringe",
+        "needle and syringe",
+        "syringe for administering medication",
+        "hypodermic needle",
+        "injection needle",
+        "insulin syringe",
+        "medical injector",
+        "hypodermic needle and syringe",
+        "vaccine needle",
+        "medication syringe",
+        "vaccination syringe",
+        "needle syringe",
+        "medical needle",
+        "shot needle and syringe"
+    ],
+    "tank": [
+        "heavy tank",
+        "armoured combat vehicle",
+        "self propelled gun",
+        "tank",
+        "armored combat vehicle",
+        "army tank",
+        "tank destroyer",
+        "main battle tank",
+        "battle tank",
+        "combat tank",
+        "military tank",
+        "armored vehicle",
+        "armored warfare vehicle"
+    ],
+    "teddy bear": [
+        "teddy bear",
+        "soft toy",
+        "plush toy",
+        "stuffed animal",
+        "bear plushie",
+        "cuddly toy",
+        "teddy"
+    ],
+    "toaster": [
+        "toast maker",
+        "bread toaster",
+        "toast machine",
+        "toasting machine",
+        "toaster",
+        "pop up toaster"
+    ],
+    "torch": [
+        "flame torch",
+        "burning torch",
+        "fire torch",
+        "torch"
+    ],
+    "tricycle": [
+        "velocipede",
+        "tri wheel",
+        "delta trike",
+        "trike",
+        "tricycle"
+    ],
+    "umbrella": [
+        "parasol",
+        "umbrella",
+        "rainshade",
+        "brolly"
+    ],
+    "unicycle": [
+        "unicycle"
+    ],
+    "viaduct": [
+        "viaduct",
+        "elevated highway",
+        "flyover",
+        "elevated roadway",
+        "overpass"
+    ],
+    "volleyball": [
+        "volleyball"
+    ],
+    "washing machine": [
+        "clothes washer",
+        "washing appliance",
+        "washer dryer",
+        "laundry machine",
+        "laundry appliance",
+        "washing unit",
+        "washing device",
+        "washing machine",
+        "laundry equipment",
+        "washer",
+        "washing system",
+        "automatic washer"
+    ],
+    "water tower": [
+        "water storage tank",
+        "water storage tower",
+        "water supply tower",
+        "water storage structure",
+        "water container tower",
+        "elevated water storage",
+        "elevated water tank",
+        "water tower",
+        "tank tower",
+        "water distribution tower",
+        "water reservoir tower",
+        "tower water tank",
+        "water pylon"
+    ],
+    "wine bottle": [
+        "wine bottle",
+        "vino bottle",
+        "bottle of vino",
+        "wine container",
+        "bottle of wine",
+        "bottle of aged wine",
+        "bottle of sparkling wine"
+    ],
+    "shipwreck": [
+        "shipwreck",
+        "vessel wreck",
+        "sinking of a ship",
+        "naval wreckage",
+        "maritime disaster",
+        "boat wreckage",
+        "ship disaster",
+        "capsized ship"
+    ],
+    "guacamole": [
+        "guac",
+        "avocado dip",
+        "guacamole",
+        "green goodness dip",
+        "mexican avocado salsa",
+        "avocado salsa",
+        "mexican avocado sauce",
+        "avocado spread"
+    ],
+    "pretzel": [
+        "pretzel bite",
+        "pretzel nugget",
+        "soft pretzel",
+        "bavarian pretzel",
+        "pretzel knot",
+        "pretzel",
+        "pretzel twist",
+        "pretzel roll",
+        "pretzel bread",
+        "pretzel stick",
+        "pretzel rod"
+    ],
+    "cheeseburger": [
+        "beef and cheese sandwich",
+        "burger with cheese",
+        "classic cheeseburger",
+        "cheeseburger sandwich",
+        "burger topped with cheese",
+        "juicy cheeseburger",
+        "cheeseburger",
+        "cheesy burger",
+        "cheese topped burger",
+        "melted cheeseburger",
+        "american cheeseburger",
+        "hamburger with cheese",
+        "cheese filled burger",
+        "patty melt",
+        "grilled cheeseburger"
+    ],
+    "hot dog": [
+        "hotdog",
+        "frankfurter",
+        "hot dog"
+    ],
+    "broccoli": [
+        "brassica oleracea",
+        "broccoli",
+        "broccoli florets or heads",
+        "broccoli florets",
+        "broccolini",
+        "broccoli crowns",
+        "brassica vegetables",
+        "cruciferous vegetable",
+        "broccoli heads"
+    ],
+    "cucumber": [
+        "gherkin",
+        "cucumber"
+    ],
+    "bell pepper": [
+        "sweet pepper",
+        "green pepper",
+        "bell pepper",
+        "capsicum"
+    ],
+    "mushroom": [
+        "mushroom",
+        "fungi",
+        "shroom"
+    ],
+    "lemon": [
+        "sour lemon",
+        "lemon wedge",
+        "lemon slice",
+        "citrus limon",
+        "tangy citrus",
+        "citrus lemon",
+        "lemon",
+        "lemon fruit",
+        "yellow lemon"
+    ],
+    "banana": [
+        "plantain",
+        "potassium rich snack",
+        "curved fruit",
+        "banana"
+    ],
+    "cherimoya (custard apple)": [
+        "custard apple",
+        "cherimoya",
+        "cherimoya (custard apple)",
+        "scheme apple"
+    ],
+    "pomegranate": [
+        "pomegranate fruit",
+        "pomegranate"
+    ],
+    "carbonara": [
+        "penne carbonara",
+        "pasta carbonara",
+        "fettuccine carbonara",
+        "spaghetti carbonara",
+        "rigatoni carbonara",
+        "linguine carbonara",
+        "traditional carbonara",
+        "carbonara",
+        "roman style carbonara",
+        "carbonara pasta",
+        "classic carbonara"
+    ],
+    "bubble": [
+        "air bubble",
+        "carbonation bubble",
+        "bubble",
+        "soap bubble",
+        "water bubble"
+    ],
+    "cliff": [
+        "cliff",
+        "escarpment",
+        "cliffsides",
+        "clifftop"
+    ],
+    "volcano": [
+        "volcanic hot spot",
+        "volcanic caldera",
+        "volcanic crater",
+        "volcano",
+        "volcanic vent",
+        "volcanic eruption site",
+        "volcanic peak",
+        "volcanic mountain",
+        "volcanic cone"
+    ],
+    "baseball player": [
+        "baseballer",
+        "slugger",
+        "baseball player",
+        "hardball player",
+        "diamond athlete",
+        "baseball athlete",
+        "ballplayer",
+        "outfielder",
+        "baseball star"
+    ],
+    "rapeseed": [
+        "canola seed",
+        "oilseed rape",
+        "rapeseed"
+    ],
+    "yellow lady's slipper": [
+        "yellow lady slipper",
+        "yellow lady's slipper",
+        "yellow ladys slipper",
+        "yellow flower"
+    ],
+    "corn": [
+        "corn",
+        "field corn",
+        "corn oil",
+        "sweet corn",
+        "maize"
+    ],
+    "acorn": [
+        "acorn",
+        "oak nut",
+        "acorn nut"
+    ]
+}

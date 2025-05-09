@@ -1,0 +1,441 @@
+{
+    "Apply_Eye_Makeup": [
+        "eye makeup",
+        "apply eye makeup"
+    ],
+    "Apply_Lipstick": [
+        "apply lipstick",
+        "lipstick application"
+    ],
+    "Archery": [
+        "archery",
+        "bow shooting",
+        "arrow shooting"
+    ],
+    "Baby_Crawling": [
+        "baby crawling",
+        "crawling"
+    ],
+    "Balance_Beam": [
+        "balance beam",
+        "beam routine"
+    ],
+    "Band_Marching": [
+        "band marching",
+        "marching band"
+    ],
+    "Baseball_Pitch": [
+        "baseball pitch",
+        "pitching",
+        "pitching a baseball",
+        "baseball pitching"
+    ],
+    "Basketball": [
+        "basketball",
+        "shooting hoops",
+        "playing ball"
+    ],
+    "Basketball_Dunk": [
+        "dunk",
+        "slam dunk",
+        "basketball dunk"
+    ],
+    "Bench_Press": [
+        "bench press",
+        "chest press"
+    ],
+    "Biking": [
+        "biking",
+        "cycling",
+        "bicycle riding",
+        "bike riding"
+    ],
+    "Billiards": [
+        "billiards",
+        "cue sports"
+    ],
+    "Blow_Dry_Hair": [
+        "blow dry hair",
+        "blow drying",
+        "hair drying"
+    ],
+    "Blowing_Candles": [
+        "blowing candles",
+        "blowing out candles",
+        "candle blowing"
+    ],
+    "Body_Weight_Squats": [
+        "squats",
+        "body weight squats"
+    ],
+    "Bowling": [
+        "bowling",
+        "ten-pin bowling",
+        "pin bowling"
+    ],
+    "Boxing_Punching_Bag": [
+        "boxing punching bag",
+        "punching bag"
+    ],
+    "Boxing_Speed_Bag": [
+        "boxing speed bag",
+        "speed bag training"
+    ],
+    "Breast_Stroke": [
+        "breast stroke",
+        "breaststroke",
+        "swimming breaststroke"
+    ],
+    "Brushing_Teeth": [
+        "brushing teeth",
+        "teeth brushing",
+        "tooth brushing"
+    ],
+    "Clean_And_Jerk": [
+        "clean and jerk"
+    ],
+    "Cliff_Diving": [
+        "cliff diving"
+    ],
+    "Cricket_Bowling": [
+        "cricket bowling"
+    ],
+    "Cricket_Shot": [
+        "cricket shot"
+    ],
+    "Cutting_In_Kitchen": [
+        "cutting in kitchen",
+        "chopping",
+        "cutting",
+        "food prep"
+    ],
+    "Diving": [
+        "diving"
+    ],
+    "Drumming": [
+        "drumming",
+        "playing drums",
+        "percussion",
+        "drum playing",
+        "beating drums"
+    ],
+    "Fencing": [
+        "fencing"
+    ],
+    "Field_Hockey_Penalty": [
+        "field hockey penalty"
+    ],
+    "Floor_Gymnastics": [
+        "floor gymnastics",
+        "floor exercise",
+        "gymnastics routine"
+    ],
+    "Frisbee_Catch": [
+        "frisbee catch",
+        "frisbee catching",
+        "disc catch"
+    ],
+    "Front_Crawl": [
+        "front crawl"
+    ],
+    "Golf_Swing": [
+        "golf swing"
+    ],
+    "Haircut": [
+        "haircut",
+        "hair cutting",
+        "hair trim"
+    ],
+    "Hammering": [
+        "hammering"
+    ],
+    "Hammer_Throw": [
+        "hammer throw",
+        "throwing hammer"
+    ],
+    "Handstand_Pushups": [
+        "handstand pushups",
+        "handstand push-ups"
+    ],
+    "Handstand_Walking": [
+        "handstand walking"
+    ],
+    "Head_Massage": [
+        "head massage",
+        "scalp massage"
+    ],
+    "High_Jump": [
+        "high jump"
+    ],
+    "Horse_Race": [
+        "horse race",
+        "horse racing",
+        "equestrian racing"
+    ],
+    "Horse_Riding": [
+        "equestrianism",
+        "horseback riding",
+        "horse riding",
+        "riding horses",
+        "equine sports"
+    ],
+    "Hula_Hoop": [
+        "hula hoop",
+        "hooping",
+        "hula hooping"
+    ],
+    "Ice_Dancing": [
+        "ice dancing",
+        "figure skating"
+    ],
+    "Javelin_Throw": [
+        "javelin throw",
+        "spear throw"
+    ],
+    "Juggling_Balls": [
+        "juggling balls",
+        "juggling",
+        "ball juggling"
+    ],
+    "Jumping_Jack": [
+        "jumping jack"
+    ],
+    "Jump_Rope": [
+        "jump rope",
+        "skipping",
+        "skipping rope"
+    ],
+    "Kayaking": [
+        "kayaking",
+        "river kayaking"
+    ],
+    "Knitting": [
+        "knitting",
+        "needlework"
+    ],
+    "Long_Jump": [
+        "long jump"
+    ],
+    "Lunges": [
+        "lunges",
+        "forward lunges"
+    ],
+    "Military_Parade": [
+        "military parade",
+        "ceremonial march"
+    ],
+    "Mixing": [
+        "mixing",
+        "blending"
+    ],
+    "Mopping_Floor": [
+        "mopping floor",
+        "mopping",
+        "floor cleaning"
+    ],
+    "Nunchucks": [
+        "nunchucks",
+        "nunchaku"
+    ],
+    "Parallel_Bars": [
+        "parallel bars"
+    ],
+    "Pizza_Tossing": [
+        "pizza tossing"
+    ],
+    "Playing_Cello": [
+        "playing cello",
+        "cello playing",
+        "cello performance",
+        "playing the cello",
+        "cellist performance"
+    ],
+    "Playing_Daf": [
+        "playing daf"
+    ],
+    "Playing_Dhol": [
+        "playing dhol"
+    ],
+    "Playing_Flute": [
+        "playing flute"
+    ],
+    "Playing_Guitar": [
+        "playing guitar",
+        "strumming",
+        "playing the guitar",
+        "acoustic playing"
+    ],
+    "Playing_Piano": [
+        "piano playing",
+        "playing piano",
+        "piano performance",
+        "piano practice",
+        "keyboard playing"
+    ],
+    "Playing_Sitar": [
+        "sitar playing",
+        "playing sitar"
+    ],
+    "Playing_Tabla": [
+        "playing tabla",
+        "tabla playing"
+    ],
+    "Playing_Violin": [
+        "playing violin",
+        "violin playing",
+        "playing the violin"
+    ],
+    "Pole_Vault": [
+        "pole vault",
+        "pole vaulting"
+    ],
+    "Pommel_Horse": [
+        "pommel horse"
+    ],
+    "Pull_Ups": [
+        "pull ups",
+        "pull-ups",
+        "chin-ups"
+    ],
+    "Punch": [
+        "punch",
+        "strike",
+        "hit",
+        "jab",
+        "blow"
+    ],
+    "Push_Ups": [
+        "push ups",
+        "push-ups",
+        "press-ups",
+        "pushups"
+    ],
+    "Rafting": [
+        "rafting",
+        "whitewater rafting"
+    ],
+    "Rock_Climbing_Indoor": [
+        "rock climbing indoor",
+        "indoor climbing",
+        "gym climbing"
+    ],
+    "Rope_Climbing": [
+        "rope climbing",
+        "climbing ropes"
+    ],
+    "Rowing": [
+        "rowing",
+        "rowing exercise"
+    ],
+    "Salsa_Spin": [
+        "salsa spin",
+        "spin in salsa"
+    ],
+    "Shaving_Beard": [
+        "shaving beard",
+        "shaving",
+        "beard shaving",
+        "facial hair removal"
+    ],
+    "Shotput": [
+        "shot put",
+        "shotput"
+    ],
+    "Skate_Boarding": [
+        "skate boarding",
+        "skateboarding",
+        "skating"
+    ],
+    "Skiing": [
+        "skiing",
+        "downhill skiing",
+        "alpine skiing",
+        "cross-country skiing",
+        "snow skiing"
+    ],
+    "Skijet": [
+        "skijet",
+        "jet skiing",
+        "watercraft riding"
+    ],
+    "Sky_Diving": [
+        "sky diving",
+        "skydiving",
+        "parachuting"
+    ],
+    "Soccer_Juggling": [
+        "soccer juggling"
+    ],
+    "Soccer_Penalty": [
+        "soccer penalty",
+        "penalty kick",
+        "penalty shot"
+    ],
+    "Still_Rings": [
+        "still rings",
+        "ring exercises"
+    ],
+    "Sumo_Wrestling": [
+        "sumo wrestling",
+        "sumo"
+    ],
+    "Surfing": [
+        "surfing",
+        "wave riding"
+    ],
+    "Swing": [
+        "swing",
+        "swinging",
+        "playground swing",
+        "sitting on a swing",
+        "swinging back and forth"
+    ],
+    "Table_Tennis_Shot": [
+        "table tennis shot",
+        "ping pong shot"
+    ],
+    "Tai_Chi": [
+        "tai chi"
+    ],
+    "Tennis_Swing": [
+        "tennis swing"
+    ],
+    "Throw_Discus": [
+        "throw discus",
+        "discus throw"
+    ],
+    "Trampoline_Jumping": [
+        "trampolining",
+        "trampoline jumping"
+    ],
+    "Typing": [
+        "typing",
+        "keyboarding"
+    ],
+    "Uneven_Bars": [
+        "uneven bars"
+    ],
+    "Volleyball_Spiking": [
+        "spiking",
+        "volleyball spiking"
+    ],
+    "Walking_With_Dog": [
+        "walking with dog",
+        "dog walking",
+        "walking the dog"
+    ],
+    "Wall_Pushups": [
+        "wall pushups"
+    ],
+    "Writing_On_Board": [
+        "writing on board",
+        "board writing",
+        "chalkboard writing",
+        "whiteboard writing"
+    ],
+    "Yo_Yo": [
+        "yo yo",
+        "yoyo",
+        "yo-yo"
+    ]
+}

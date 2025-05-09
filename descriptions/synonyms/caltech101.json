@@ -1,0 +1,425 @@
+{
+    "face": [
+        "face",
+        "portrait",
+        "face shot",
+        "headshot",
+        "facial image"
+    ],
+    "leopard": [
+        "leopard",
+        "cheetah's cousin"
+    ],
+    "motorbike": [
+        "motorbike",
+        "motorcycle",
+        "bike"
+    ],
+    "accordion": [
+        "accordion",
+        "piano accordion",
+        "diatonic accordion"
+    ],
+    "airplane": [
+        "airplane"
+    ],
+    "anchor": [
+        "anchor",
+        "anchor object"
+    ],
+    "ant": [
+        "ant"
+    ],
+    "barrel": [
+        "barrel",
+        "cask"
+    ],
+    "bass": [
+        "bass"
+    ],
+    "beaver": [
+        "beaver",
+        "beaver mammal",
+        "north american beaver"
+    ],
+    "binocular": [
+        "binocular",
+        "binoculars"
+    ],
+    "bonsai": [
+        "bonsai"
+    ],
+    "brain": [
+        "brain",
+        "human brain",
+        "brain structure",
+        "brain scan",
+        "brain image"
+    ],
+    "brontosaurus": [
+        "brontosaurus",
+        "dinosaur",
+        "long-necked dinosaur",
+        "sauropod"
+    ],
+    "buddha": [
+        "buddha"
+    ],
+    "butterfly": [
+        "butterfly",
+        "butterfly species"
+    ],
+    "camera": [
+        "camera",
+        "digital camera",
+        "compact camera"
+    ],
+    "cannon": [
+        "cannon",
+        "artillery"
+    ],
+    "car_side": [
+        "car side"
+    ],
+    "ceiling_fan": [
+        "ceiling fan",
+        "electric fan"
+    ],
+    "cellphone": [
+        "cellphone",
+        "mobile phone",
+        "smartphone",
+        "handset",
+        "device"
+    ],
+    "chair": [
+        "chair",
+        "seat",
+        "recliner",
+        "armchair"
+    ],
+    "chandelier": [
+        "chandelier"
+    ],
+    "cougar_body": [
+        "cougar body"
+    ],
+    "cougar_face": [
+        "cougar face"
+    ],
+    "crab": [
+        "crab"
+    ],
+    "crayfish": [
+        "crayfish",
+        "crawfish",
+        "freshwater lobster"
+    ],
+    "crocodile": [
+        "crocodile"
+    ],
+    "crocodile_head": [
+        "crocodile head"
+    ],
+    "cup": [
+        "cup",
+        "mug"
+    ],
+    "dalmatian": [
+        "dalmatian"
+    ],
+    "dollar_bill": [
+        "dollar bill",
+        "\"dollar\""
+    ],
+    "dolphin": [
+        "dolphin",
+        "bottlenose dolphin",
+        "marine mammal",
+        "cetacean"
+    ],
+    "dragonfly": [
+        "dragonfly"
+    ],
+    "electric_guitar": [
+        "electric guitar",
+        "guitar"
+    ],
+    "elephant": [
+        "elephant"
+    ],
+    "emu": [
+        "emu"
+    ],
+    "euphonium": [
+        "euphonium",
+        "bass euphonium"
+    ],
+    "ewer": [
+        "ewer"
+    ],
+    "ferry": [
+        "ferry"
+    ],
+    "flamingo": [
+        "flamingo"
+    ],
+    "flamingo_head": [
+        "flamingo head",
+        "flamingo's head",
+        "flamingo face"
+    ],
+    "garfield": [
+        "garfield"
+    ],
+    "gerenuk": [
+        "gazelle",
+        "waller's gazelle"
+    ],
+    "gramophone": [
+        "gramophone",
+        "phonograph",
+        "victrola"
+    ],
+    "grand_piano": [
+        "grand piano",
+        "concert piano",
+        "baby grand",
+        "full-sized piano"
+    ],
+    "hawksbill": [
+        "hawksbill",
+        "hawksbill sea turtle"
+    ],
+    "headphone": [
+        "headphone",
+        "headphones",
+        "earphones",
+        "headset"
+    ],
+    "hedgehog": [
+        "hedgehog",
+        "porcupine-like animal"
+    ],
+    "helicopter": [
+        "helicopter",
+        "chopper",
+        "copter",
+        "rotorcraft"
+    ],
+    "ibis": [
+        "ibis"
+    ],
+    "inline_skate": [
+        "inline skate",
+        "rollerblade",
+        "inline skates"
+    ],
+    "joshua_tree": [
+        "joshua tree"
+    ],
+    "kangaroo": [
+        "kangaroo",
+        "wallaby",
+        "marsupial"
+    ],
+    "ketch": [
+        "ketch"
+    ],
+    "lamp": [
+        "lamp",
+        "desk lamp",
+        "table lamp",
+        "standing lamp",
+        "floor lamp"
+    ],
+    "laptop": [
+        "laptop",
+        "computer",
+        "macbook"
+    ],
+    "llama": [
+        "llama",
+        "alpaca",
+        "camelid"
+    ],
+    "lobster": [
+        "lobster"
+    ],
+    "lotus": [
+        "lotus"
+    ],
+    "mandolin": [
+        "mandolin"
+    ],
+    "mayfly": [
+        "mayfly",
+        "mayfly nymph"
+    ],
+    "menorah": [
+        "menorah",
+        "hanukkah lamp"
+    ],
+    "metronome": [
+        "metronome"
+    ],
+    "minaret": [
+        "minaret",
+        "tower",
+        "mosque tower",
+        "minaret structure"
+    ],
+    "nautilus": [
+        "nautilus",
+        "nautilus shell"
+    ],
+    "octopus": [
+        "octopus",
+        "squid",
+        "cephalopod",
+        "octopi"
+    ],
+    "okapi": [
+        "okapi",
+        "okapi giraffe",
+        "forest giraffe",
+        "african ungulate",
+        "unique mammal"
+    ],
+    "pagoda": [
+        "pagoda"
+    ],
+    "panda": [
+        "panda",
+        "giant panda",
+        "panda bear"
+    ],
+    "pigeon": [
+        "pigeon",
+        "dove"
+    ],
+    "pizza": [
+        "pizza",
+        "pie",
+        "slice",
+        "pizzeria"
+    ],
+    "platypus": [
+        "platypus",
+        "duck-billed platypus"
+    ],
+    "pyramid": [
+        "pyramid",
+        "triangular structure"
+    ],
+    "revolver": [
+        "revolver"
+    ],
+    "rhino": [
+        "rhino",
+        "rhinoceros"
+    ],
+    "rooster": [
+        "rooster"
+    ],
+    "saxophone": [
+        "saxophone",
+        "sax"
+    ],
+    "schooner": [
+        "schooner",
+        "coastal schooner"
+    ],
+    "scissors": [
+        "scissors"
+    ],
+    "scorpion": [
+        "scorpion",
+        "\"scorpion\""
+    ],
+    "sea_horse": [
+        "sea horse",
+        "seahorse"
+    ],
+    "snoopy": [
+        "snoopy"
+    ],
+    "soccer_ball": [
+        "soccer ball",
+        "ball",
+        "football",
+        "sports ball"
+    ],
+    "stapler": [
+        "stapler",
+        "desk stapler",
+        "paper stapler"
+    ],
+    "starfish": [
+        "starfish",
+        "sea star",
+        "star fish"
+    ],
+    "stegosaurus": [
+        "stegosaurus"
+    ],
+    "stop_sign": [
+        "stop sign",
+        "\"stop sign\""
+    ],
+    "strawberry": [
+        "strawberry",
+        "berry",
+        "fresh strawberry"
+    ],
+    "sunflower": [
+        "sunflower"
+    ],
+    "tick": [
+        "tick",
+        "ticks",
+        "tick image",
+        "tick symbol"
+    ],
+    "trilobite": [
+        "trilobite"
+    ],
+    "umbrella": [
+        "umbrella",
+        "parasol"
+    ],
+    "watch": [
+        "watch",
+        "wristwatch",
+        "timepiece",
+        "wrist timer"
+    ],
+    "water_lilly": [
+        "water lilly",
+        "water lily"
+    ],
+    "wheelchair": [
+        "wheelchair",
+        "mobility chair",
+        "power chair"
+    ],
+    "wild_cat": [
+        "wild cat",
+        "feral cat",
+        "wild feline",
+        "stray cat",
+        "wild kitty",
+        "untamed cat"
+    ],
+    "windsor_chair": [
+        "windsor chair"
+    ],
+    "wrench": [
+        "wrench",
+        "adjustable wrench",
+        "pipe wrench"
+    ],
+    "yin_yang": [
+        "yin yang"
+    ]
+}
