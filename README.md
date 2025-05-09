@@ -24,10 +24,9 @@ Refer to the following guides for setting up datasets:
 # `testsets` is chosen from:
 # ['imagenet', 'oxford_flowers', 'dtd', 'oxford_pets', 'stanford_cars', 'ucf101', 'caltech101', 'food101', 'sun397', 'fgvc_aircraft', 'eurosat']
 
-# Step 2: Evaluate zero-shot performance
+# Evaluate zero-shot performance
 bash ./scripts/evaluate.sh [gpu_id] [testset]
 ```
-
 
 ## Acknowledgements
 
