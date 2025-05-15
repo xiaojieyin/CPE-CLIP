@@ -1,6 +1,6 @@
 data_root=PATH/TO/DATASET
 DESC_PATH=./descriptions/image_datasets
-gpu=$1
+gpu=0,1
 testsets=oxford_flowers/dtd/oxford_pets/stanford_cars/ucf101/caltech101/food101/sun397/fgvc_aircraft/eurosat
 
 # number of descriptions per class
